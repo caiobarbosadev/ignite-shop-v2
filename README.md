@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/caiobarbosadev/ignite-shop-v2">
-    <img src="https://raw.githubusercontent.com/caiobarbosadev/ignite-feed-reactjs/master/Logo.svg" alt="Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/caiobarbosadev/ignite-shop-v2/master/Logo.svg" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Ignite Shop v2 🚀</h3>
