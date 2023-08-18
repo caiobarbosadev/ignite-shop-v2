@@ -19,7 +19,7 @@
 
 ## Sobre
 
-![Ignite Shop v2](https://github.com/caiobarbosadev/ignite-shop-v2/blob/master/Capa.png)
+![Ignite Shop v2](https://github.com/caiobarbosadev/ignite-shop-v2/blob/master/Capa-nova.png)
 
 O Ignite Shop v2 é uma aplicação construída com foco na aprendizagem dos conceitos fundamentais do Next.js e suas funcionalidades na Trilha Ignite da Rocketseat.
 
